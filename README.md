@@ -7,7 +7,9 @@ A unique room id will be genrated each time when you open the webapp, later shar
 You have to give permission to your camera and microphone when using this app for the first time.
 
 ## Technologies Used ##
- 1) Node.js
- 2) Express JS
- 3) PeerJS
- 4) Socket.IO
+ - Node.js
+ - Express JS
+ - PeerJS
+ - Socket.IO
+
+### Thanks for visiting.
